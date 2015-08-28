@@ -65,11 +65,6 @@ Authentication: Bearer asdkjfnasdlkfnasdkfn
 ```
 
 
-## chatty section:
-
-Yes.
-
-
 ## A possible DSL?
 
 ```
